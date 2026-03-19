@@ -172,7 +172,7 @@
         true,
         true,
         true,
-        false,
+        true,
         false
       ],
       "repoUrl": "https://github.com/C9-Tech-GtitHub/MerrickMonitor",
@@ -223,5 +223,5 @@
       "openIssues": 0
     }
   ],
-  "lastUpdated": "2026-03-19T00:23:09.219Z"
+  "lastUpdated": "2026-03-19T04:39:32.653Z"
 }
