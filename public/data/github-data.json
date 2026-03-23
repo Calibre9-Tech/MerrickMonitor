@@ -148,10 +148,10 @@
       "commits": 16,
       "activity": [
         false,
-        true,
-        true,
         false,
-        true
+        false,
+        false,
+        false
       ],
       "repoUrl": "https://github.com/C9-Tech-GtitHub/claude-code-bootstrap",
       "stars": 0,
@@ -169,11 +169,11 @@
       ],
       "commits": 60,
       "activity": [
-        true,
-        true,
-        true,
-        true,
-        true
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "repoUrl": "https://github.com/C9-Tech-GtitHub/MerrickMonitor",
       "stars": 0,
@@ -223,5 +223,5 @@
       "openIssues": 0
     }
   ],
-  "lastUpdated": "2026-03-22T04:38:18.544Z"
+  "lastUpdated": "2026-03-23T00:23:49.605Z"
 }
